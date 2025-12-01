@@ -7,7 +7,7 @@ A comprehensive educational project demonstrating **7 different approaches** to 
 ![ClassBasedView](ClassBasedView.jpg)
 ![Mixins](Mixins.jpg)
 ![Generics](Generics.jpg)
-![Viewstes](Viewstes.jpg)
+![Viewstes](Viewsetes.jpg)
 
 ## 🎯 Project Overview
 
